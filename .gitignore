@@ -1,0 +1,33 @@
+# Local environments and package caches
+.venv/
+venv/
+**/__pycache__/
+*.py[cod]
+node_modules/
+vendor/
+.cache/
+
+# Credentials and local settings
+.env
+.env.*
+*.pem
+*.key
+**/config.json
+**/cookies*
+**/storage_state*.json
+**/chrome_profile/
+**/browser-profile/
+**/DouyinAutomation/
+**/XiaohongshuAutomation/
+**/WechatAutomation/
+
+# Personal task files and outputs
+output/
+outputs/
+downloads/
+backup/
+backups/
+logs/
+runs/
+models/
+*.log

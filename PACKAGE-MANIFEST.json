@@ -1,0 +1,442 @@
+{
+  "version": "20261124.1",
+  "edition": "github-free.release-20261124.1",
+  "source_archive_sha256": "02e686fc1c801ff722a91c5b08651c3043a3c6c8b6fc3c0660e4a053c0cb83c5",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 430,
+      "sha256": "5309d3db01cdc20c9c55d8b336a6c89b49724c04297176442380f25777e6ae62"
+    },
+    {
+      "path": "assets/media-export-tool/launcher.py",
+      "bytes": 19355,
+      "sha256": "7f6b962ed6693995abbcf3fb59510cb4837027936b31715ceaa3d39e52e62923"
+    },
+    {
+      "path": "assets/media-export-tool/LICENSE",
+      "bytes": 1106,
+      "sha256": "c805db622d4fd5603556e188c0ffce8394400a0cef863d941645fabf4b222a9d"
+    },
+    {
+      "path": "assets/media-export-tool/panel.html",
+      "bytes": 18841,
+      "sha256": "56001ef863c20196eab857a5725b473e28c50d3beb90b00fdd46c67f59fd51d1"
+    },
+    {
+      "path": "assets/media-export-tool/requirements.txt",
+      "bytes": 108,
+      "sha256": "ace32134977d2130f82a42ad26f7c9506f53680d9d87d6b04b3d198621db3d49"
+    },
+    {
+      "path": "assets/media-export-tool/scripts/adaptive.py",
+      "bytes": 15059,
+      "sha256": "8f7154586ec18089a9449d2244d6d5c142a36e477d2b7dc6538e52cc0167e77a"
+    },
+    {
+      "path": "assets/media-export-tool/scripts/douyin_export_all.py",
+      "bytes": 29496,
+      "sha256": "7ec7bf81dd0ced91718381ed1dc37ddf26cc1a635e4b2dfac2d2343a5ff8c1da"
+    },
+    {
+      "path": "assets/media-export-tool/scripts/douyin_fingerprint.json",
+      "bytes": 109,
+      "sha256": "6d43e7f85ebc29b4f81082f8ce2d802a7e38f54f0326b9100ef800521358164b"
+    },
+    {
+      "path": "assets/media-export-tool/scripts/douyin_selectors.json",
+      "bytes": 834,
+      "sha256": "861514457e81f878d348c41399da9c171cec66a117eb6f767e62bd570b902806"
+    },
+    {
+      "path": "assets/media-export-tool/scripts/export_results.py",
+      "bytes": 3089,
+      "sha256": "bfe0ab8363c8eec995726aa357cc22882dd7f517db4fead65952d7a9f476fb60"
+    },
+    {
+      "path": "assets/media-export-tool/scripts/mediaexport_maintenance.py",
+      "bytes": 2934,
+      "sha256": "7cab077e456e44846059a7d98c9bef15af9e7b2a39f4f361fd56e7b71a50d863"
+    },
+    {
+      "path": "assets/media-export-tool/scripts/report_selection.py",
+      "bytes": 3345,
+      "sha256": "02f899323b1b0a155a0f92c66bc6d474d5dc68e4401b40a11aafd84515323f90"
+    },
+    {
+      "path": "assets/media-export-tool/scripts/resilience.py",
+      "bytes": 16338,
+      "sha256": "cf0877bfec48ad5e59a96143bb7a8be2bfa806e6f336b8a6a0b131523a8c5f89"
+    },
+    {
+      "path": "assets/media-export-tool/scripts/run_paths.py",
+      "bytes": 3504,
+      "sha256": "3bf64e7209f4d85d40c55182a8b6fa8b6bd8166821211a7d0562e49cab8607f4"
+    },
+    {
+      "path": "assets/media-export-tool/scripts/tool_utils.py",
+      "bytes": 4676,
+      "sha256": "3870afc9f857dc31f84c9f0c442d321027c018dc2cf2b84040eaa674045343b3"
+    },
+    {
+      "path": "assets/media-export-tool/scripts/wechat/dl_utils.py",
+      "bytes": 4900,
+      "sha256": "80b1f89bf19ab16b459d09114a71d42605d1b7c8845c8aeed11d59c1ff2bc54c"
+    },
+    {
+      "path": "assets/media-export-tool/scripts/wechat/run_fans_portrait_export.py",
+      "bytes": 12413,
+      "sha256": "ab888d232e785b9aa650af53de015da281e153a8e3297c4c67134169ae0b6b9b"
+    },
+    {
+      "path": "assets/media-export-tool/scripts/wechat/run_follower_export.py",
+      "bytes": 10281,
+      "sha256": "eb919da8684ef1e091a6829fe29fd422a1a185b373e67d5d4c37b4ef5bf430f0"
+    },
+    {
+      "path": "assets/media-export-tool/scripts/wechat/run_single_video_export_fresh.py",
+      "bytes": 12445,
+      "sha256": "1740519a323c4165d8c0b6748641802615a9ff07a35902bed30cb9087bf881ac"
+    },
+    {
+      "path": "assets/media-export-tool/scripts/wechat/run_source_dist_export.py",
+      "bytes": 6099,
+      "sha256": "b017055f5f2de13be0dc8e5ba76a7a8279f33197471daecec6519f943e736395"
+    },
+    {
+      "path": "assets/media-export-tool/scripts/wechat/run_video_all_export.py",
+      "bytes": 10836,
+      "sha256": "de872001903ddb01e780755cd401b203e383259560e4ee05374f56857a9d1236"
+    },
+    {
+      "path": "assets/media-export-tool/scripts/wechat/wechat_selectors.json",
+      "bytes": 717,
+      "sha256": "85555adbfcd7303a534064af98f892cf075be71ffcf21e356faeb44bef5571ab"
+    },
+    {
+      "path": "assets/media-export-tool/scripts/wechat_export_all.py",
+      "bytes": 17602,
+      "sha256": "ec1f75d11a2afc582bf722ddd0be728a9aa6ec3c2b1623d61a28f746aaed0154"
+    },
+    {
+      "path": "assets/media-export-tool/scripts/xhs_export_all.py",
+      "bytes": 23326,
+      "sha256": "618ad2da5de4ec08592a54341b59aa4cabfc0c406a4c1bb04ded384cb05b972b"
+    },
+    {
+      "path": "assets/media-export-tool/scripts/xhs_fingerprint.json",
+      "bytes": 348,
+      "sha256": "08c0d025c4e8a5f740f01ba68c5aec0bc55a29f449f4d535a70ebd3e1122dcce"
+    },
+    {
+      "path": "assets/media-export-tool/scripts/xhs_selectors.json",
+      "bytes": 356,
+      "sha256": "59e2a2a02670faf26f9d11e9a88609fbb605ed18b6b0b3788dba47ba9ff84c2f"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 789,
+      "sha256": "a80dd1f61f59eb921690790ef99e709647d1df2265f088fea0729993f3e47e3f"
+    },
+    {
+      "path": "integrations/report-retry/launcher.py",
+      "bytes": 19177,
+      "sha256": "4ad48bd3e65e05db9b4b5cd053eb091ad3005f31ed76df4c73735dad234870d1"
+    },
+    {
+      "path": "integrations/report-retry/scripts/douyin_export_all.py",
+      "bytes": 29839,
+      "sha256": "f9b72c41d3894cf43af4b86c081bd6ccc5507db1d806a9235fa398382cc42ba8"
+    },
+    {
+      "path": "integrations/report-retry/scripts/report_selection.py",
+      "bytes": 3345,
+      "sha256": "02f899323b1b0a155a0f92c66bc6d474d5dc68e4401b40a11aafd84515323f90"
+    },
+    {
+      "path": "integrations/report-retry/scripts/wechat_export_all.py",
+      "bytes": 16093,
+      "sha256": "7e2675f985910bff9d2b6ee56d2f30e95f866d20aec09706f7327fb2be63985d"
+    },
+    {
+      "path": "integrations/report-retry/scripts/xhs_export_all.py",
+      "bytes": 23777,
+      "sha256": "2111ff941705ecfe028efc6e36bf9c711342c57befe192b9eccbcd69dee89d1b"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1103,
+      "sha256": "316c10f3dfe1da7ead1d25c1164d1165183fe339b6abd3b41934caee7eee3a63"
+    },
+    {
+      "path": "native-bootstrap/PrepareEnvironment.cs",
+      "bytes": 19325,
+      "sha256": "f3db3c25d0a81610ef5d6b44ea419cfe36ab5911ab051d3d94462f51a75b9048"
+    },
+    {
+      "path": "PrepareEnvironment.exe",
+      "bytes": 21504,
+      "sha256": "36fc6251938320d32b13e9c1b8e7969f9e3f77cb1e113845e814a14e3afffba6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5728,
+      "sha256": "4dcc4c572389da0bfa18cd446c83cce5ff178e41423aa9f5defb9a09de9bf21e"
+    },
+    {
+      "path": "references/account-cycle-implementation.md",
+      "bytes": 1746,
+      "sha256": "8d97a8bbfbaa7633baf0e1f6a6a84a0b1b6186b8794984edf2e25149db4d8638"
+    },
+    {
+      "path": "references/benchmark-report-template.md",
+      "bytes": 14229,
+      "sha256": "c59d3b457df186c3596cf423c42478570add20d1006769c8d789d003b8995589"
+    },
+    {
+      "path": "references/first-use.md",
+      "bytes": 3319,
+      "sha256": "d4a0e94f3edc519d9ecf2b00846c240649e53079aaf354976b413e80e7d6bae5"
+    },
+    {
+      "path": "references/link-media.md",
+      "bytes": 2302,
+      "sha256": "5a9d903f6e26723b1342fdbcf3ccf95720fb05500ab33f1bca6cfbd9151f21c6"
+    },
+    {
+      "path": "references/methods.md",
+      "bytes": 1362,
+      "sha256": "77bca6ad800068d8347e8a71c98e20b04ccea35d9fd253c27f464c918479ad08"
+    },
+    {
+      "path": "references/recovery.md",
+      "bytes": 1793,
+      "sha256": "524e06eeff1d45277fa875e0fc213560f040f770976f55ed917ce7b09e9854b9"
+    },
+    {
+      "path": "references/report-prose-layout.md",
+      "bytes": 7665,
+      "sha256": "7d97480d5f312ae05ce9fd83d55dd74c5d6689e42c7e25e6d3ea148699c2eef6"
+    },
+    {
+      "path": "references/report-rendering.md",
+      "bytes": 1467,
+      "sha256": "21216fa14d0bab0c0ee653af01c34252c982d57ba3dc590f664db42709eaae7d"
+    },
+    {
+      "path": "references/report-retry-current.md",
+      "bytes": 677,
+      "sha256": "399455407124804a541fa8f47b96672534268dedffd57df42b47f6931e3da1eb"
+    },
+    {
+      "path": "references/report-template-architecture.md",
+      "bytes": 3040,
+      "sha256": "4b28020fc532babaa9f2169d017e8462b551ca18d31bcec1f66206f830252320"
+    },
+    {
+      "path": "references/review-depth-contract.md",
+      "bytes": 11264,
+      "sha256": "175c72c7f852ac03880b88a4ba40961e2fcdc7f6e2e3bc7123bf9e5394f489a6"
+    },
+    {
+      "path": "references/review-methods.json",
+      "bytes": 5233,
+      "sha256": "57c76e5f04a93a33f4fa1a35102b04a5b9bcd573b05d28e727ca9265b5154e8b"
+    },
+    {
+      "path": "references/run-export.md",
+      "bytes": 1675,
+      "sha256": "e6ce78624adf4ee6488c854d4d5857a649c9f6e437ea67ede5eaf449f925848c"
+    },
+    {
+      "path": "references/single-work-review.md",
+      "bytes": 1127,
+      "sha256": "0a4e8498c4e72989a02a171851425b2d9c3ce6f4c1666bebc02adc3bb185b57e"
+    },
+    {
+      "path": "references/换机依赖清单.md",
+      "bytes": 230,
+      "sha256": "4400cba8beb80fd24fee547496401ddbdb852a752221114079f11e4cbea1e3dd"
+    },
+    {
+      "path": "scripts/benchmark_normalize.py",
+      "bytes": 5344,
+      "sha256": "ad420d91f7db6b7287677260c838fdbaf0ced857e985c7cbb584f353533af685"
+    },
+    {
+      "path": "scripts/bootstrap_runtime.ps1",
+      "bytes": 15531,
+      "sha256": "977a7daa0a8a5b1531aa0fd39700d66507e89b021752e93695278bcb9f7b2f50"
+    },
+    {
+      "path": "scripts/build_benchmark_pdf.py",
+      "bytes": 33457,
+      "sha256": "ba389904d512d9a5e1b87a2d5fd01806bd81db32cd771d947b01315a95629e60"
+    },
+    {
+      "path": "scripts/build_cycle_report_pdf.py",
+      "bytes": 29749,
+      "sha256": "b9027bcca33256865761c0fb14ca979edd934c4dffa94241a3f6530644464a28"
+    },
+    {
+      "path": "scripts/build_multi_cycle_report_pdf.py",
+      "bytes": 47645,
+      "sha256": "2bf61c2c30301267bc558d6289921792148b63f7c0d7bef0ca558173ef86d0b2"
+    },
+    {
+      "path": "scripts/build_report_pdf.py",
+      "bytes": 31125,
+      "sha256": "187aba23bff19234a5775402dbe0ed59e075d6eca25cafcb96026a9f853f41d5"
+    },
+    {
+      "path": "scripts/check_environment.ps1",
+      "bytes": 13852,
+      "sha256": "c29864fb4fae58c817b42964b4fbc176d290fa8d11240b572ee4221923eff24b"
+    },
+    {
+      "path": "scripts/check_panel_runtime.ps1",
+      "bytes": 7737,
+      "sha256": "2924de2b4af92abcfa811e5c06553d41625dd91a812b2fcb8dca3e73912ab285"
+    },
+    {
+      "path": "scripts/download_link_sample.py",
+      "bytes": 16760,
+      "sha256": "4e73ab7f9e136ce8ae8e3c56ddf95558b95d8deef1f6bdf751084c18d1affff6"
+    },
+    {
+      "path": "scripts/media_without_cookies.py",
+      "bytes": 3247,
+      "sha256": "9f1422888a87377ab44fe9a79267d36e369fa3085b26fc0b74c1371de7246e30"
+    },
+    {
+      "path": "scripts/plan_standard_chrome.ps1",
+      "bytes": 3949,
+      "sha256": "7f8c37dfae6324680bf62e8c45a2cec37c662c3a14722a49196cc81f3766a68d"
+    },
+    {
+      "path": "scripts/prepare_content_compare.py",
+      "bytes": 9928,
+      "sha256": "32bddf30fba3a57dfea83d82ed9b0531960e8ee89983d731c55ff7fd14df97d9"
+    },
+    {
+      "path": "scripts/prepare_s3.ps1",
+      "bytes": 8512,
+      "sha256": "0013907b60beb70daac28fd108fc996788a285eb6e8490ca1851717d641b5f82"
+    },
+    {
+      "path": "scripts/process_video_sample.py",
+      "bytes": 10028,
+      "sha256": "1e8ae0e0703d07521a8d3ead51c13bdead8937c02bbd433d5ffc8f8a3d05a4ef"
+    },
+    {
+      "path": "scripts/read_open_note.mjs",
+      "bytes": 5586,
+      "sha256": "3b4252f0f30f853d99fb51111004e2eb8c0be0e769f33927f7628de1840a08aa"
+    },
+    {
+      "path": "scripts/read_selected_media.mjs",
+      "bytes": 2333,
+      "sha256": "5185265f2e40e1b7eb82646e66eb2351e3d7c050263d5033ad4ad52fe4d957c4"
+    },
+    {
+      "path": "scripts/render_review_detail.py",
+      "bytes": 11268,
+      "sha256": "9a174aaa097664091603fda54b88ed6e62138343dab2e471a393281cac727204"
+    },
+    {
+      "path": "scripts/render_review_prose.py",
+      "bytes": 11008,
+      "sha256": "f4ba6e05a27a5c3790b591ef8d665a1bc9a2996ff7486e2e01c21bfd2c41e9be"
+    },
+    {
+      "path": "scripts/render_review_visual.py",
+      "bytes": 20984,
+      "sha256": "bbc302363d32122fcbc893ba7b2f32cb74ecb343bf7031687cc4be9c1800b9bb"
+    },
+    {
+      "path": "scripts/report_selection.py",
+      "bytes": 3345,
+      "sha256": "02f899323b1b0a155a0f92c66bc6d474d5dc68e4401b40a11aafd84515323f90"
+    },
+    {
+      "path": "scripts/review_analysis.py",
+      "bytes": 20813,
+      "sha256": "ed3948fdc8f37661d9a108242e8271a981fb716c82474ea569c3916945832b45"
+    },
+    {
+      "path": "scripts/review_visual_contract.py",
+      "bytes": 10487,
+      "sha256": "8a6f42cbe5066096f218266b2687a85cd829730526418fedd139a17b19cbe8f4"
+    },
+    {
+      "path": "scripts/run_batch.py",
+      "bytes": 19865,
+      "sha256": "e6da9a5385292790824c6fd53ed34b1258cc3568bb539e2fa5d7b55c5bf45ea6"
+    },
+    {
+      "path": "scripts/run_benchmark_sample.py",
+      "bytes": 9861,
+      "sha256": "6ff0803ea25e013f301717032bba7fff43f46510a4646a41015b5611635cf9d9"
+    },
+    {
+      "path": "scripts/run_export.py",
+      "bytes": 15252,
+      "sha256": "a0f61bbd8f5d31aa7e32ab7d4dd28b5b01aad61b3731b6719cca9cb5db5e0ddb"
+    },
+    {
+      "path": "scripts/run_link_media.py",
+      "bytes": 28030,
+      "sha256": "fc9b23d1ddb492203ce85a979ed6b81c97736207994a2af0a36c9c6eded1b131"
+    },
+    {
+      "path": "scripts/run_report_retry.py",
+      "bytes": 15580,
+      "sha256": "d26de1cb9a9a2ce2d2ee7717aa8c5414e220c04fae01fced594c4cf36e1f86ef"
+    },
+    {
+      "path": "scripts/setup_environment.ps1",
+      "bytes": 20458,
+      "sha256": "90799385070288611e5c38cc7401696cf7b4324ed47127e822e976d57c25de79"
+    },
+    {
+      "path": "scripts/setup_standard_chrome.ps1",
+      "bytes": 11038,
+      "sha256": "3337a6b315a42c9d640b9ece78222ffe5d26455cd4b742a0dba7a4e73eeea2f2"
+    },
+    {
+      "path": "scripts/summarize_account_cycle.py",
+      "bytes": 21012,
+      "sha256": "21715f5b2bd142d5b841bebee57dd9715065f7d6977b444a8c9729654dce82b7"
+    },
+    {
+      "path": "scripts/summarize_export.py",
+      "bytes": 14795,
+      "sha256": "bef0d4f0659c89f21abbe29b03b685a30e15285ea896a2cb08cdc3f586399d2e"
+    },
+    {
+      "path": "scripts/summarize_multi_platform.py",
+      "bytes": 48990,
+      "sha256": "207cb0b4fedcd88fa81238a2f397a674d00c7c69e04eaceefd92445c95e2a1fc"
+    },
+    {
+      "path": "scripts/xhs_browser_ready.py",
+      "bytes": 6010,
+      "sha256": "61168528a960ae3a78ede740c61be845f06bb68140ca6e20547d03ad1a930c08"
+    },
+    {
+      "path": "scripts/依赖预检_GLM.py",
+      "bytes": 5199,
+      "sha256": "1a8cb79470d059cc14b24acb176cbcec58a1581d223c5f6785840f7c25236454"
+    },
+    {
+      "path": "SKILL.md",
+      "bytes": 3776,
+      "sha256": "c9bee115cda5585c57e33c45e9d5ae6e3f5c23d417f937b4655a909652720ce2"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 1795,
+      "sha256": "e33b84f8023ef49cd319e9d73ce49d75709f33835f5af7075dffde2b516a5fdd"
+    }
+  ]
+}
